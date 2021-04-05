@@ -20,4 +20,4 @@
 
 #### [Report](https://sidsolanki28.github.io/Employee-Attrition-in-Organisation)
 
-### [Direct Notebook Link](https://nbviewer.jupyter.org/github/SidSolanki28/Employee-Attrition-in-Organisation/blob/master/Employee_Attrition_in_Organisation.ipynb)
+#### [Direct Notebook Link](https://nbviewer.jupyter.org/github/SidSolanki28/Employee-Attrition-in-Organisation/blob/master/Employee_Attrition_in_Organisation.ipynb)
