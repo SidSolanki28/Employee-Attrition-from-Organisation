@@ -18,3 +18,5 @@
 ## Link
 
 #### [Github Link](https://github.com/SidSolanki28/Employee-Attrition-in-Organisation)
+
+### [Direct Notebook Link](https://nbviewer.jupyter.org/github/SidSolanki28/Employee-Attrition-in-Organisation/blob/master/Employee_Attrition_in_Organisation.ipynb)
